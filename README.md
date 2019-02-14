@@ -9,6 +9,4 @@ Source: https://en.wikipedia.org/wiki/Jenkins_(software)
 asdasd
 
 
-qwerty
-
 qwert
