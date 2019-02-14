@@ -10,10 +10,4 @@ asd
 asd
 asd
 asd
-asd
-as
-dfgd
-fgdfgdfgdfgdfgdfgdfg
-d
-a
 
