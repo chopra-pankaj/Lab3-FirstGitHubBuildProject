@@ -5,8 +5,3 @@ Lab3 - First GitHub Build Project
 Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.]
 
 Source: https://en.wikipedia.org/wiki/Jenkins_(software)
-
-This is the last line!1 This is the last line!1This is the last line!1This is the last line!1This is the last line!1This is the last line!1This is the last line!1This is the last line!1
-LAst line
-asd
-asd
