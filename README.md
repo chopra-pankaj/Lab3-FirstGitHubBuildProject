@@ -15,6 +15,3 @@ as
 d
 a
 
-fds
-gd
-f
